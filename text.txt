@@ -1,0 +1,44 @@
+1#
+
+sadfjl#
+
+Champ#
+2#
+10#
+10#
+20#
+15#
+12#
+13#
+12#
+1#
+0#
+6#
+3#
+0#
+0#
+0#
+0#
+Shortsword#
+Armornone#
+
+Battle Cry#
+
+[1;31m+1 ATK[0m to nearby allies and self for 3 turns - [1;36m♠ 3[0m#
+
+Recover#
+
+[1;32mHeal 5 HP[0m to you or a target - [1;36m♠ 5[0m#
+
+Recover#
+
+[1;32mHeal 5 HP[0m to you or a target - [1;36m♠ 5[0m#
+t#
+t#
+-----END OF PARTY-----#
+0#
+3#
+Health Potion#
+Health Potion#
+Health Potion#
+-----END OF BAG-----#
